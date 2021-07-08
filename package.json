@@ -2,8 +2,7 @@
   "name": "for-the-empire",
   "version": "1.0.0",
   "description": "",
-  "main": ".eslintrc.js",
-  "scripts": {
+  "main": ".eslintrc.js",  "scripts": {
     "lint": "eslint --format codeframe .",
     "test": "mocha tests.js"
   },
